@@ -4,3 +4,5 @@ Title: New Data on Salem.
 Version: 0.0.1
 Imports: bookdown
 Remotes: rstudio/bookdown
+URL: https://github.com/elinw/salem-book
+BugReports: https://github.com/elinw/salem-book/issues
